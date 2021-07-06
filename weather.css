@@ -33,11 +33,11 @@
 
 .forecast-list__item {
     width: 25%;
-	height: 150px;
-	color: #FFFFFF;
-	display: inline-block;
-	padding-top: 30px;
-	cursor: pointer;
+    height: 150px;
+    color: #FFFFFF;
+    display: inline-block;
+    padding-top: 30px;
+    cursor: pointer;
     font-size: 30px;
     text-align: center;
     border-width: 0 2px 2px 0;
